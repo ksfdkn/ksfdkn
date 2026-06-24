@@ -33,5 +33,11 @@ I’m passionate about building modern, performant, and user‑friendly web inte
 * Create responsive and semantic layouts that meet accessibility (a11y) standards
 * Work effectively with Git: create branches, resolve conflicts, write clear commit messages
 
+## Training Projects (Yandex Practicum)
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Stellar Burgers** | Responsive landing page/app with custom components, complex layout, and forms. Demonstrates solid understanding of DOM manipulation and core JavaScript logic. | React, React Rouer, Redux | [View Code](https://github.com/ksfdkn/stellar-burgers) |
+| **SkillSwap** | Single Page Application for skill exchange: API integration, routing, and state management. Highlights my ability to structure scalable React applications and manage application lifecycle. | React, React Rouer, Redux | [View Code](https://github.com/ksfdkn/SkillSwap) |
+
 ## Coding Practice
 [![Codewars](https://www.codewars.com/users/ksfdkn/badges/large)](https://www.codewars.com/users/ksfdkn)
